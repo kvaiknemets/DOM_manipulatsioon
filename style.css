@@ -1,0 +1,9 @@
+div {
+    background: yellow;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: left;
+  }
